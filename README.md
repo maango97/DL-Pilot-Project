@@ -16,8 +16,8 @@
 - **관련 링크**:
   - [YOLO 모델 다운로드](https://github.com/ultralytics/yolov5)
   - [OpenCV 공식 문서](https://docs.opencv.org/)
-- **시연 영상**:  
-  ![유동인구 카운트 영상](https://user-images.githubusercontent.com/yourusername/your-video-file1.mp4)
+- **시연 이미지**:  
+  ![유동인구 카운트 이미지](https://github.com/maango97/DL-Pilot-Project/blob/main/people.png)
 
 ---
 
